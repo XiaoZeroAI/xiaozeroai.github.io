@@ -1,41 +1,41 @@
 {
-    "title": "故人的博客",
+    "title": "茉灵智库",
     "description": "千载流年一如梦，月落山河一世倾",
-    "keywords": "故人,个人博客",
-    "author": "故人",
+    "keywords": "茉灵智库,个人博客",
+    "author": "茉灵智库",
     "logo_img": "./img/icon/logo.png",
     "logo_text_1": "",
-    "logo_text_2": "ren",
+    "logo_text_2": "Ling",
     "link_1": [
-        "https://site.sciping.com/",
+        "",
         "fa-solid fa-blog",
-        "学术导航"
+        ""
     ],
     "link_2": [
-        "https://yiso.fun/",
+        "",
         "fa-solid fa-cloud",
-        "网盘搜索"
+        ""
     ],
     "link_3": [
-        "https://decohack.notion.site/decohack/21ed6d8428d04b928ccd7fbf2ea36dd2?v=8456b58b9e184cbca2979d033d5f83a6",
+        "",
         "fa-solid fa-music",
-        "DecoHack周刊"
+        ""
     ],
     "link_4": [
-        "https://wantquotes.net/?utm_source=appinn.com",
+        "",
         "fa-solid fa-compass",
-        "据意查句"
+        ""
     ],
     "link_5": [
-        "https://pro.gleeze.com/article/48",
+        "",
         "fa-solid fa-book-bookmark",
-        "考研资料"
+        ""
     ],
     "link_6": [
-        "https://dacdh.cf/",
+        "",
         "fa-solid fa-flask",
-        "DAC导航"
+        ""
     ],
-    "Copyright_text": "故人",
+    "Copyright_text": "茉灵智库",
     "beian": "桂ICP备2022018139号-1"
 }
