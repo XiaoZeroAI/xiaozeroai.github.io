@@ -54,9 +54,9 @@ window.addEventListener('load', function () {
             timeout: 2500,
             icon: false,
             title: hello,
-            message: '欢迎来到故人的主页'
+            message: '欢迎来到我的主页'
         });
-    }, 800);
+    }, 600);
 
     //延迟加载音乐播放器
     let element = document.createElement("script");
@@ -394,7 +394,7 @@ color: rgb(244,167,89);
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = '故人的主页'
+let title1 = '茉灵的主页'
 let title2 = `
                                                  
 `
@@ -402,7 +402,7 @@ let content = `
 版 本 号：3.3
 更新日期：2022-07-24
 
-主页:  https://gurbk.github.io
+主页:  https://xiaozeroai.github.io/
 Github:  https://github.com/88lin
 `
 console.log(`%c${title1} %c${title2}
