@@ -237,7 +237,7 @@ $("#github").mouseover(function () {
     $("#link-text").html("通过这里联系我");
 });
 $("#qq").mouseover(function () {
-    $("#link-text").html("有什么事吗");
+    $("#link-text").html("加我QQ好友");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
@@ -247,7 +247,7 @@ $("#email").mouseover(function () {
     $("#link-text").html("通过这里联系我");
 });
 $("#bilibili").mouseover(function () {
-    $("#link-text").html("来工具箱看看 ~");
+    $("#link-text").html("来哔哩哔哩看看 ~");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
